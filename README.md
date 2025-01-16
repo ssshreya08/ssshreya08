@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Shreya Tyagi
-- 👀 I’m interested in Machine Learning and Full Stack
+- 👀 I’m interested in Machine Learning and Full Stack Development
 - 🌱 I’m currently learning Full Stack , Concepts of Operating System and keen to learn more technical developments.
 - 📫 How to reach me -
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShreyaTyagi)
+  You can also contact me through email at tyagishreya2k388@gmail.com
+  
 
 
 
